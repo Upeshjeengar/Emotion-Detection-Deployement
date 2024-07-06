@@ -11,9 +11,10 @@ Requirements: <a href="https://www.python.org/downloads/"> `Python`</a>  Must be
 
 As publishing big files is not allowed on github, we can diretly download models from this <a href="https://drive.google.com/file/d/116vQNP6Poh0VRbAmmjU2dbaL1rUGt_Wt/view?usp=sharing">gdrive link</a>
 
-After downloading and unziping files Move to project's directory in **terminal**(VS Code terminal is recommended), It is recommended to create a virtual environment.
+After downloading and unziping files Move to project's directory in **terminal**(VS Code terminal is recommended).   
+It is recommended to create a virtual environment.
 
-**GUide to create a Virtual Environment in python**  
+**Guide to create a Virtual Environment in python**  
 1. Create the virtual environment : `python -m venv myenv `      
 2. Activate the virtual environment:
     <div class="responsive-table__container"><table class="docutils align-default">
