@@ -1,5 +1,5 @@
 ## Some Key Features and Demo:
-1. This model can **detect six emotions**: 'Angry', 'Disgust', 'Fear', 'Happy', 'Neutral', 'Sad', 'Surprise'
+1. This model can **detect seven emotions**: 'Angry', 'Disgust', 'Fear', 'Happy', 'Neutral', 'Sad', 'Surprise'
 2. The model was having **test accuracy of around 63.71%**.
 3. The model is implemented on top of one of the best CNN model, **RESNET-50 architecture**.
 
