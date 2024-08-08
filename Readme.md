@@ -3,9 +3,6 @@
 2. The model was having **test accuracy of around 63.71%**.
 3. The model is implemented on top of one of the best CNN model, **RESNET-50 architecture**.
 
-![alt text](assets/img1.png)
-![alt text](assets/img2.png)
-
 # Guide to use this model
 Requirements: <a href="https://www.python.org/downloads/"> `Python`</a>  Must be installed on your computer
 
